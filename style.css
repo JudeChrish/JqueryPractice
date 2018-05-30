@@ -1,0 +1,63 @@
+#div1
+{
+	height:auto;
+}
+#div2
+{
+	height:80px;
+}
+#flip,#panel
+{
+	padding:5px;
+	text-align:center;
+	border:2px solid black;
+}
+#panel
+{
+	padding:50px;
+	display:none;
+	background-color:#dad2be;
+}
+#flip
+{
+		
+	background-color:#c7bc9e;
+}
+#animateHolder
+{
+	display:flex;
+}
+#animated1
+{
+	background-color:#f2e68c;
+	height:100px;
+	width:100px;
+	position:absolute;
+	left:150px;
+}
+#bntAnimate
+{
+	width:70px;
+	height:70px;
+	border-radius:19px;
+}
+#bntAnimateStop
+{
+	width:70px;
+	height:70px;
+	border-radius:19px;
+}
+#animated2
+{
+	background-color:#f2e68c;
+	height:100px;
+	width:100px;
+	position:relative;
+	margin-top:50px;
+}
+#bntAnimate2
+{
+	margin-top:10px;
+	position:relative;
+	float:left;
+}
